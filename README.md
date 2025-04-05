@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style-sederhana.css">
 </head>
 <body>
-    <h1>Belajar CSS Position Sederhana</h1>
+    <h1>CSS Position</h1>
 
     <div class="container">
         <div class="box static">Static</div>
